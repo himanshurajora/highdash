@@ -8,7 +8,7 @@ homepage = "https://github.com/himanshurajora/highdash"
 documentation = "https://github.com/himanshurajora/highdash"
 repository = "https://github.com/himanshurajora/highdash"
 readme = "README.md"
-keywords = ["array methods", "lodash", "rust lodash", "highdash", "array manipulation"]
+keywords = ["arraymethods", "lodash", "rustlodash", "highdash", "arraymanipulation"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
