@@ -2,7 +2,7 @@
 name = "highdash"
 version = "0.0.0"
 edition = "2021"
-license-file = "LICENSE"
+license = "MIT"
 description = "A lodash alternative for Rust. Great package for people coming from Javascript"
 homepage = "https://github.com/himanshurajora/highdash"
 documentation = "https://github.com/himanshurajora/highdash"
