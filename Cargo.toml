@@ -1,8 +1,14 @@
 [package]
 name = "highdash"
-version = "0.1.0"
+version = "0.0.0"
 edition = "2021"
-
+license-file = "LICENSE"
+description = "A lodash alternative for Rust. Great package for people coming from Javascript"
+homepage = "https://github.com/himanshurajora/highdash"
+documentation = "https://github.com/himanshurajora/highdash"
+repository = "https://github.com/himanshurajora/highdash"
+readme = "README.md"
+keywords = ["array methods", "lodash", "rust lodash", "highdash", "array manipulation"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
