@@ -18,3 +18,6 @@ pub use head::head;
 
 mod first;
 pub use first::first;
+
+mod for_each;
+pub use for_each::for_each;
